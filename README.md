@@ -6,7 +6,7 @@
 
 ## Github Actions 部署指南
 
-### 一、Fork 此仓库
+### 一、Fork 此仓库1
 
 ### 二、设置账号密码
 > 前往: Settings-->Secrets-->Actions-->New repository secret
